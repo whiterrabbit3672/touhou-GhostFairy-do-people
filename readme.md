@@ -1,0 +1,1 @@
+【三无麻薯游戏工作室】麻薯社小游戏，现已发布v1.4demo版本，请到[Releases](https://github.com/whiterrabbit3672/touhou-GhostFairy-do-people/releases)里下载游玩
